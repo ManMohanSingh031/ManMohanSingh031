@@ -1,6 +1,6 @@
 ![MasterHead]( https://cdn.hashnode.com/res/hashnode/image/upload/v1658567640791/RdbvcRNNC.gif?auto=format,compress&gif-q=60&format=webm)
 <h1 align="center">Hi 🙏, I'm Man Mohan Singh</h1>
-<h3 align="center">A passionate frontend developer from Rae Bareli, Uttar Pradesh, India(Bharat).</h3>
+<h3 align="center">A passionate Software developer from Rae Bareli, Uttar Pradesh, India(Bharat).</h3>
 
 <img align="right" width="350" height="390" src= "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
  alt="manmohansingh031" />
