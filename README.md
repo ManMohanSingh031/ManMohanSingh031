@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/rajput_akash18" target="blank"><img src="https://img.shields.io/twitter/follow/rajput_akash18?logo=twitter&style=for-the-badge" alt="rajput_akash18" /></a> </p>
 
-- 🔭 I’m currently working on [Chegg India](SEM)
+- 🔭 I’m currently working in MyGate (Software Engineer )
+
+- 🔭 In 2023 worked in [Chegg India](SEM)
 
 - 🌱 I’m currently learning **JavaScript, ReactJs with NextJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-man-mohan-singhs-projects.vercel.app/](https://portfolio-man-mohan-singhs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mansingh.netlify.app/](Portfolio)
 
-- 💬 Ask me about **HTML/CSS, Tailwind CSS, JavaScript, ReactJs**
+- 💬 Ask me about **HTML/CSS, Tailwind CSS, JavaScript, ReactJs, NextJs**
 
 - 📫 How to reach me **manmohansingh8422@gmail.com**
 
