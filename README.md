@@ -1,4 +1,3 @@
-![MasterHead]( https://cdn.hashnode.com/res/hashnode/image/upload/v1658567640791/RdbvcRNNC.gif?auto=format,compress&gif-q=60&format=webm)
 <h1 align="center">Hi 🙏, I'm Man Mohan Singh</h1>
 <h3 align="center">A passionate Software developer from Rae Bareli, Uttar Pradesh, India(Bharat).</h3>
 
